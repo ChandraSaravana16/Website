@@ -1,0 +1,13 @@
+#order{
+    card:center;
+}
+.card img{
+    height: 500px;
+    padding:10px ;
+}
+.order{
+    content: center;
+    align-items: center;
+    justify-content: center;
+    
+}
